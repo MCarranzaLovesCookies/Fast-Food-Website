@@ -1,0 +1,109 @@
+body {
+        margin: 0; padding: 0;
+}
+.truth {
+        font-family:Roboto;
+        font-size: 75px;
+        text-align: center;
+        color: white;
+        text-shadow: 5px 5px 5px black;
+}
+.red {
+        background-color: #e74c3c;
+}
+.whopper {
+        width:600px;
+}
+.fatfood {
+        font-family: Alef;
+        font-size: 40px;
+        color: white;
+        text-shadow: 3px 2px 2px black;
+        margin-top: 0px;
+        margin-bottom: 0px;
+}
+.mcdonalds {
+        font-family: Roboto;
+        font-size: 65px;
+        text-align: center;
+        text-shadow: 4px 4px 4px black;
+        color: white;
+        margin-top: 0px;
+}
+.fastfood {
+        font-family: Alef;
+        font-size: 40px;
+        text-shadow: 2px 2px 2px black;
+        color: white;
+        margin-bottom: 0px;
+}
+.color2 {
+        background-color: #ecf0f1;
+}
+.mc{
+        height: 300px;
+        padding-left: 25px;
+}
+.truth1 {
+        font-family:Roboto;
+        font-size: 75px;
+        text-align: center;
+        color: #f1c40f;
+        text-shadow: 5px 5px 5px black;
+        margin-bottom: 0px;
+        margin-top: 0px;
+}
+.footer {
+        font-family: Scada;
+        text-shadow: 2px 2px 2px black;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+        margin: 0px;
+}
+.color5 {
+        background-color: #f1c40f;
+}
+.yerro {
+        font-family: Alef;
+        color: #f1c40f;
+        text-shadow: 2px 2px 2px black;
+        font-size: 30px;
+        text-align:
+}
+.color3 {
+        background-color: #34495e;
+        margin: 0px;
+}
+.truth3 {
+        font-family:Roboto;
+        font-size: 75px;
+        text-align: center;
+        color: white;
+        text-shadow: 5px 5px 5px black;
+        margin-top: -30px;
+}
+.lol {
+        margin: 0px;
+}
+.padding1 {
+        padding-top: 25px;
+}
+.goodbye{
+        height: 300px;
+        text-align:center;
+
+}
+.mc1 {
+       height: 300px;
+       text-align:center;
+}
+.fatfood1 {
+        font-family: Alef;
+        font-size: 60px;
+        color: white;
+        text-shadow: 3px 2px 2px black;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align:center;
+}
